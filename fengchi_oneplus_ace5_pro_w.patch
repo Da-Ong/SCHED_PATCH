@@ -1151,7 +1151,6 @@ index 000000000000..e59708b16ea3
 +extern int scx_gov_ctrl;
 +extern int sched_ravg_window_frame_per_sec;
 +
-
 +#endif
 \ No newline at end of file
 diff --git b/include/linux/sched/hmbird_version.h a/include/linux/sched/hmbird_version.h
